@@ -2,17 +2,17 @@
   "update": {
     "enabled": true,
     "force_update": true,
-    "version": "3.0.1",
-    "versionCode": 31,
+    "version": "3.0.2",
+    "versionCode": 32,
     "title": "إصدار جديد متاح",
     "message": "أطلقنا إصدارا جديدا من التطبيق يتضمن تحسينات مهمة وتطويرات في الأداء وتجربة استخدام أكثر سلاسة. يرجى تحديث التطبيق إلى أحدث إصدار لمواصلة الاستخدام والاستفادة من جميع المزايا الجديدة.",
-    "download_url": "ضع_رابط_APK_هنا",
+    "download_url": "http://file-to-link-stevebotz-01.koyeb.app/7856/alammna+plus.apk?hash=AgADer",
     "button_text": "تحديث التطبيق الآن",
     "telegram": {
       "enabled": true,
-      "title": "تابع قناة ARIX الرسمية",
+      "title": "تابع قناة عالمنا الرسمية",
       "message": "انضم إلى قناتنا الرسمية على تيليجرام لتصلك آخر التحديثات والإعلانات والمميزات الجديدة.",
-      "button_text": "الانتقال إلى قناة ARIX",
+      "button_text": "انضم إلى قناة عالمنا",
       "url": "https://t.me/airx4"
     },
     "cancelable": false,
