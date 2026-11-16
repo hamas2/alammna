@@ -1,0 +1,14 @@
+
+{
+  "telegram_popup": {
+    "enabled": true,
+    "show_interval_hours": 24,
+    "title": "ابقَ على تواصل معنا",
+    "message": "انضم إلى قناتنا الرسمية على تيليجرام لتصلك آخر الأخبار والتحديثات والإضافات الجديدة فور صدورها",
+    "button_text": "انضم إلى قناتنا",
+    "later_button_text": "لاحقا",
+    "channel_url": "https://t.me/airx4",
+    "show_close_button": true,
+    "show_once_per_interval": true
+  }
+}
