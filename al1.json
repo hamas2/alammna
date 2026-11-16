@@ -1,0 +1,16 @@
+{
+  "source": "http://hulk4k.info:8080/get.php?username=66818794&password=102005214&type=m3u_plus",
+  "live": true,
+  "movies": true,
+  "series": true,
+  "auto_detect": true,
+  "auto_update": true,
+  "read_group_title": true,
+  "read_tvg_name": true,
+  "read_tvg_logo": true,
+  "read_stream_url": true,
+  "detect_episodes": true,
+  "detect_seasons": true,
+  "preserve_urls": true,
+  "remove_duplicates": true
+}
