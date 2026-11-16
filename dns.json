@@ -1,0 +1,25 @@
+
+{
+  "dns_system": {
+    "enabled": true,
+    "auto_detect": true,
+    "parallel_check": true,
+    "timeout": 8,
+    "cache_server": true,
+    "retry_failed": true,
+    "servers": [
+      {
+        "id": "server_1",
+        "name": "Primary",
+        "url": "https://example1.com:8080",
+        "enabled": true
+      },
+      {
+        "id": "server_2",
+        "name": "Secondary",
+        "url": "https://example2.com:8080",
+        "enabled": true
+      }
+    ]
+  }
+}
