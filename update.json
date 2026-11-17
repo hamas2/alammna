@@ -2,11 +2,11 @@
   "update": {
     "enabled": true,
     "force_update": true,
-    "version": "3.3",
-    "versionCode": 33,
+    "version": "3.2",
+    "versionCode": 32,
     "title": "إصدار محسن متاح",
     "message": "يتوفر الآن إصدار محدث من التطبيق يتضمن معالجة عدد من المشاكل السابقة وتحسين الأداء والاستقرار وإجراء تطويرات عامة على تجربة الاستخدام. نوصي بتثبيت آخر إصدار للحصول على أفضل تجربة.",
-    "download_url": "http://file-to-link-stevebotz-01.koyeb.app/7882/alammna+Plus+3.2.apk?hash=AgAD6L",
+    "download_url": "http://file-to-link-stevebotz-01.koyeb.app/7887/alammna3.2.apk?hash=AgAD7L",
     "button_text": "تحديث التطبيق الآن",
     "telegram": {
       "enabled": true,
