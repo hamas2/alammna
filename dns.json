@@ -11,7 +11,7 @@
       {
         "id": "server_1",
         "name": "Primary",
-        "url": "https://example1.com:8080",
+        "url": "http://amlive.cc:80",
         "enabled": true
       },
       {
