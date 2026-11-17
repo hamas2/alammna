@@ -17,7 +17,7 @@
       {
         "id": "server_2",
         "name": "Secondary",
-        "url": "https://example2.com:8080",
+        "url": "http://1.sharkpro.ink:80",
         "enabled": true
       }
     ]
