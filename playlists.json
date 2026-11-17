@@ -1,0 +1,46 @@
+{
+  "playlists": [
+    {
+      "id": "al1",
+      "file": "al1.json",
+      "name": "عالمنا A1",
+      "enabled": true
+    },
+    {
+      "id": "al2",
+      "file": "al2.json",
+      "name": "عالمنا A2",
+      "enabled": true
+    },
+    {
+      "id": "al3",
+      "file": "al3.json",
+      "name": "عالمنا A3",
+      "enabled": true
+    },
+    {
+      "id": "al4",
+      "file": "al4.json",
+      "name": "عالمنا A4",
+      "enabled": true
+    },
+    {
+      "id": "al5",
+      "file": "al5.json",
+      "name": "عالمنا A5",
+      "enabled": true
+    },
+    {
+      "id": "al6",
+      "file": "al6.json",
+      "name": "عالمنا A6",
+      "enabled": true
+    },
+    {
+      "id": "al7",
+      "file": "al7.json",
+      "name": "عالمنا A7",
+      "enabled": true
+    }
+  ]
+}
