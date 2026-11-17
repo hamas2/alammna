@@ -2,7 +2,7 @@
 {
   "telegram_popup": {
     "enabled": true,
-    "show_interval_hours": 24,
+    "show_interval_hours": 0.0005556,
     "title": "ابقَ على تواصل معنا",
     "message": "انضم إلى قناتنا الرسمية على تيليجرام لتصلك آخر الأخبار والتحديثات والإضافات الجديدة فور صدورها",
     "button_text": "انضم إلى قناتنا",
