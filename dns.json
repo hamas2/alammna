@@ -1,4 +1,3 @@
-
 {
   "dns_system": {
     "enabled": true,
@@ -17,7 +16,7 @@
       {
         "id": "server_2",
         "name": "Secondary",
-        "url": "http://1.sharkpro.ink:80",
+        "url": "http://mjidiptv.com:1997",
         "enabled": true
       }
     ]
