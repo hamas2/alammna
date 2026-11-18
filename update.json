@@ -2,8 +2,8 @@
   "update": {
     "enabled": true,
     "force_update": true,
-    "version": "3.4",
-    "versionCode": 34,
+    "version": "3.3",
+    "versionCode": 33,
     "title": "إصدار محسن متاح",
     "message": "يتوفر الآن تحديث جديد لتطبيق عالمنا يتضمن ميزة اكمل المشاهدة وتحسين البحث والتشغيل التلقائي للحلقات وقائمة الحلقات داخل المشغل والتحكم بسرعة التشغيل بالإضافة إلى تحسينات عامة وإصلاح عدد من المشاكل. نوصي بتحديث التطبيق للاستفادة من الميزات الجديدة.",
     "download_url": "http://file-to-link-stevebotz-01.koyeb.app/8589/alammna-Plus.apk?hash=AgADqa",
