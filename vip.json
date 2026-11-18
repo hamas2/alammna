@@ -1,3 +1,4 @@
+
 {
   "enabled": true,
   "id": "alamna_vip",
@@ -5,17 +6,17 @@
   "channels": [
     {
       "id": "vip1",
-      "name": "عالمنا VIP 1",
-      "type": "m3u8",
-      "url": "YOUR_VIDEO_LINK",
+      "name": "عالمنا VIP - عالم الترفيه",
+      "type": "mp4",
+      "url": "http://file-to-link-stevebotz-01.koyeb.app/8556/video_2026-11-18_16-47-15.mp4?hash=AgADar",
       "enabled": true,
       "order": 1
     },
     {
       "id": "vip2",
-      "name": "عالمنا VIP 2",
+      "name": "عالمنا VIP - اشترك واستمتع",
       "type": "mp4",
-      "url": "YOUR_VIDEO_LINK",
+      "url": "http://file-to-link-stevebotz-01.koyeb.app/8555/video_2026-11-18_16-45-33.mp4?hash=AgADZb",
       "enabled": true,
       "order": 2
     }
