@@ -1,0 +1,12 @@
+
+{
+  "type": "stalker",
+  "portal": "http://enomaxtv.xyz:8080/c/",
+  "mac": "00:1A:79:24:03:CB",
+  "enabled": true,
+  "live": true,
+  "movies": true,
+  "series": true,
+  "auto_update": true,
+  "remove_duplicates": true
+}
