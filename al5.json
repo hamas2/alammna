@@ -1,11 +1,16 @@
 {
-  "type": "stalker",
-  "portal": "http://restream.oled-ott.net:80/c/",
-  "mac": "00:1A:79:23:AD:BF",
-  "enabled": true,
+  "source": "http://ornek.live:2082/get.php?username=d8:e0:e1:df:e7:6c&password=R37345R864&type=m3u_plus&output=mpegts",
   "live": true,
   "movies": true,
   "series": true,
+  "auto_detect": true,
   "auto_update": true,
+  "read_group_title": true,
+  "read_tvg_name": true,
+  "read_tvg_logo": true,
+  "read_stream_url": true,
+  "detect_episodes": true,
+  "detect_seasons": true,
+  "preserve_urls": true,
   "remove_duplicates": true
 }
