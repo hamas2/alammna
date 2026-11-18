@@ -1,0 +1,11 @@
+{
+  "type": "stalker",
+  "portal": "http://restream.oled-ott.net:80/c/",
+  "mac": "00:1A:79:23:AD:BF",
+  "enabled": true,
+  "live": true,
+  "movies": true,
+  "series": true,
+  "auto_update": true,
+  "remove_duplicates": true
+}
