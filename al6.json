@@ -1,12 +1,12 @@
-
 {
   "type": "stalker",
-  "portal": "http://enomaxtv.xyz:8080/c/",
-  "mac": "00:1A:79:24:03:CB",
+  "portal": "http://restream.oled-ott.net:80/c/",
+  "mac": "00:1A:79:B5:56:36",
   "enabled": true,
   "live": true,
   "movies": true,
   "series": true,
   "auto_update": true,
-  "remove_duplicates": true
+  "remove_duplicates": true,
+  "source": ""
 }
